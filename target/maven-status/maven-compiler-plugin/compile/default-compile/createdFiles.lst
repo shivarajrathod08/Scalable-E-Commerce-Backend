@@ -1,0 +1,3 @@
+org\ecommerce\ECommerceManagementSystemApplication.class
+org\ecommerce\model\Category.class
+org\ecommerce\model\Product.class
